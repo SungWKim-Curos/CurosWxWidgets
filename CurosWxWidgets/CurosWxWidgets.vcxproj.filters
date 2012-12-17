@@ -21,6 +21,7 @@
       <Filter>Supporting Files</Filter>
     </ClInclude>
     <ClInclude Include="MyApp.h" />
+    <ClInclude Include="MyFrame.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="CurosWxWidgets.cpp" />
@@ -28,6 +29,7 @@
       <Filter>Supporting Files</Filter>
     </ClCompile>
     <ClCompile Include="MyApp.cpp" />
+    <ClCompile Include="MyFrame.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="CurosWxWidgets.rc">
