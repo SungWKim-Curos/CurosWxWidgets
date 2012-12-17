@@ -10,7 +10,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="CurosWxWidgets.h" />
     <ClInclude Include="Resource.h">
       <Filter>Supporting Files</Filter>
     </ClInclude>
@@ -24,7 +23,6 @@
     <ClInclude Include="MyFrame.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="CurosWxWidgets.cpp" />
     <ClCompile Include="stdafx.cpp">
       <Filter>Supporting Files</Filter>
     </ClCompile>
