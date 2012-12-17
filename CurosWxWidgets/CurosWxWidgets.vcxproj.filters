@@ -20,12 +20,14 @@
     <ClInclude Include="targetver.h">
       <Filter>Supporting Files</Filter>
     </ClInclude>
+    <ClInclude Include="MyApp.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="CurosWxWidgets.cpp" />
     <ClCompile Include="stdafx.cpp">
       <Filter>Supporting Files</Filter>
     </ClCompile>
+    <ClCompile Include="MyApp.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="CurosWxWidgets.rc">
