@@ -85,6 +85,7 @@
     <Text Include="ReadMe.txt" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Constants.h" />
     <ClInclude Include="MyApp.h" />
     <ClInclude Include="MyFrame.h" />
     <ClInclude Include="Resource.h" />

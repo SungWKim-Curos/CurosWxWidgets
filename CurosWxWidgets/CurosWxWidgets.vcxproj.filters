@@ -21,6 +21,7 @@
     </ClInclude>
     <ClInclude Include="MyApp.h" />
     <ClInclude Include="MyFrame.h" />
+    <ClInclude Include="Constants.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
